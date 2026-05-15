@@ -1,4 +1,4 @@
-# 
+# automatic JetBrains Rider for PC | JetBrains Rider for Windows Workflow | snippets + code-formatting offers the most advanced JetBrains Rider for PC | JetBrains Rider for Windows
 
 
 
